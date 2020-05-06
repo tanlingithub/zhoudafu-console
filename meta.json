@@ -1,0 +1,16 @@
+{
+	"name": "zhoudafu-console",
+	"version": "1.0.0",
+	"title": "周大福管理后台",
+	"description": "",
+	"type": "template",
+	"platform": [
+		"PC"
+	],
+	"homePage": "/materials/24/distd5999be2b690c6981d6544636b3a1cc6/index.html",
+	"category": "管理后台",
+	"screenshot": "/screenshots/d5999be2b690c6981d6544636b3a1cc6.png",
+	"path": "templates/ZhoudafuConsole",
+	"origin": "http://gitlab.deepexi.top/deepexi/deepexi-serverless/serverless-material.git",
+	"hash": "03f82d84ebfe56b3921b69ae834fc684"
+}

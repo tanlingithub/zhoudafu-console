@@ -1,0 +1,19 @@
+{
+  "appKey": "xcZfcUtbTEUTgpR4dUjN9qXaroqL4W37",
+  "appSecret": "l1cVQP95w0xQZq3dbkfTRLtRkWfmePOx",
+  "projectId": "df2de34fc546668a898a9b268f9a0878",
+  "id": 482,
+  "name": "zhoudafu-console",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "测试周大福管理端",
+  "git": {
+    "url": "https://github.com/tanlingithub/zhoudafu-console.git",
+    "isPrivate": 0,
+    "username": "3082902468@qq.com",
+    "password": "ctLFJ94OmGTWlCLNxs2p3EINq0fFYd630QAM23mRw8WjygM8R+UXWTFzOd3vxRuHd/h6HpAD9hzOqc14TYEsDw=="
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
